@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/AcademicSaaS/obj
+bin
+/AcademicSaaS/*.user
